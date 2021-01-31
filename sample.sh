@@ -1,2 +1,2 @@
 echo "hello world"
-eco "how are you darling"
+echo "how are you darling"
